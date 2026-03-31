@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💧 AI-Based Water Quality Prediction System
 
 **Complete end-to-end machine learning system for predicting water pollution risk using real-time sensor data, GIS visualization, and automated mitigation recommendations.**
@@ -609,3 +610,6 @@ Start monitoring water quality with AI-powered predictions and GIS visualization
 *Last Updated: 2024*
 *System Version: 1.0*
 *Python: 3.8+*
+=======
+# water-quality-prediction
+>>>>>>> 24c7b07da32199881cde98c47fe56983cf6eb100
